@@ -1,0 +1,52 @@
+body{
+    font-family: Raleway, sans-serif;   
+}
+.contener{
+    width: 1040px;
+    padding: 102px 0px 111px 0 px;
+    margin: 0 auto;
+}
+.title {
+    padding-top: 102px;
+
+}
+.line {
+    width: 100px;
+    height: 3px;
+    background: #FF8B38;
+    position: relative;
+    left: 45.5%;
+;
+}
+.title h1 {
+padding-bottom: 22px;
+font-size: 36px;
+font-weight: 435px;
+text-align: center;
+text-transform: uppercase;
+margin: 0;
+}
+.title p {
+    color: #86878B;
+    text-align: center;
+    font-size: 14px;
+}
+.round {
+    border-radius: 50%; /* Радиус скругления */
+    border: 1px solid #FF8B38 ; /* Параметры рамки */
+
+   }
+.awesome_item {
+    width: 350px;
+    float: left;
+    text-align: center;
+}
+.awesome_item h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.awesome_item p {
+    color: #86878B;
+    font-size: 14px;
+    line-height: 1.3em;
+}
